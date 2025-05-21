@@ -1,16 +1,22 @@
-## Hi there 👋
+## Kennedy Santos da Silva
+💻 Desenvolvedor de Sistemas Pleno  - Crefisa
 
-<!--
-**kennedyvoid/kennedyvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Redes Sociais 
+![Linkedin Badge](https://img.shields.io/badge/-Kennedy_Santos_Da_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedy-santos-da-silva-ba8054201/)
+[![Gmail Badge](https://img.shields.io/badge/-kennedysansilvafami@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kennedysansilvafami@gmail.com)](mailto:kennedysansilvafami@gmail.com)
 
-Here are some ideas to get you started:
+## Formação 
+Analise e Desenvolvimento de Sistemas (Centro Universitario das Americas (FAM)<br>
+Inteligencia Artificial (Faculdade Impacta)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens de Programação
+ C# <br>
+ ASP NET MVC <br>
+ ASP NET <br>
+ ASP NET Core <br>
+ JavaScript <br>
+ React <br>
+ Angular <br>
+ Python <br>
+ Oracle <br>
+ SQL Server <br>
