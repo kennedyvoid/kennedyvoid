@@ -20,3 +20,6 @@ Inteligencia Artificial (Faculdade Impacta)<br>
  Python <br>
  Oracle <br>
  SQL Server <br>
+ JavaScript <br>
+ React <br>
+ Flutter <br>
